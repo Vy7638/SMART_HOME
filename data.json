@@ -1,0 +1,35 @@
+{
+  "env": [
+    {
+      "id": 1,
+      "humidity": 70,
+      "temperature": 30,
+      "light": 3456
+    },
+    {
+      "id": 2,
+      "humidity": 60,
+      "temperature": 36,
+      "light": 6574
+    },
+    {
+      "id": 3,
+      "humidity": 12,
+      "temperature": 19,
+      "light": 1000
+    },
+    {
+      "id": 4,
+      "humidity": 60,
+      "temperature": 34,
+      "light": 3482
+    },
+    
+    {
+      "id": 5,
+      "humidity": 22,
+      "temperature": 21,
+      "light": 3956
+    }
+  ]
+}
